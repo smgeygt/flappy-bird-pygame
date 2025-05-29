@@ -2,7 +2,7 @@
 
 A simple clone of the classic **Flappy Bird** game, developed using Python and the `pygame` library.
 
-![](img/screenshot.png)  <!-- Ekran görüntüsü eklersen bu çalışır -->
+![](img/screenshot.png)  
 
 ---
 
